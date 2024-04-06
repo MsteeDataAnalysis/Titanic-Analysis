@@ -1,4 +1,5 @@
 # Titanic-Analysis
+![titanic image](https://github.com/MsteeDataAnalysis/Titanic-Analysis/assets/166234578/5e7b16a0-ade7-4957-8645-7667b5d10f6f)
 ## Introduction
 
 The titanic dataset typically includes the following columns:
@@ -24,4 +25,20 @@ The titanic dataset typically includes the following columns:
 - Fare: The amount of money the passenger paid for the ticket.
 
 This dashboard was created to understand the key events that happened before and after the titanic accident.
+## Project Questions
+
+- What is the gender distribution of the passengers onboard?
+- Out of the dead passengers, how many bodies were found?
+- With regards to passenger ticket class, how many of them survived or died?
+- Did more females survive compared to male?
+## Skills Demonstrated
+- DAX
+- Slicers
+- Filters
+- Measures
+- Data Transformation
+- Data Extraction
+- Data Modelling
+
+## Titanic Dashboard
 
