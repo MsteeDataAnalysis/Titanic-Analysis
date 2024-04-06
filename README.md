@@ -44,6 +44,7 @@ This dashboard was created to understand the key events that happened before and
 ![Titanic Dashboard image 1](https://github.com/MsteeDataAnalysis/Titanic-Analysis/assets/166234578/cefff332-cbe7-428e-a95c-cb4fdcb791c1)
 
 ![Titanic Dashboard image 2](https://github.com/MsteeDataAnalysis/Titanic-Analysis/assets/166234578/239e9e4e-ccca-4e61-b321-dfc019fbf9c3)
+{click here to read about the Titanic datasets}(https://www.kaggle.com/datasets/yasserh/titanic-dataset)
 
 ## Summary/Inferences
 - ﻿Count of sex for male (843) was higher than female (466).
