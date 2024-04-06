@@ -43,3 +43,6 @@ This dashboard was created to understand the key events that happened before and
 ## Titanic Dashboard
 ![Titanic Dashboard image 1](https://github.com/MsteeDataAnalysis/Titanic-Analysis/assets/166234578/cefff332-cbe7-428e-a95c-cb4fdcb791c1)
 
+![Titanic Dashboard image 2](https://github.com/MsteeDataAnalysis/Titanic-Analysis/assets/166234578/239e9e4e-ccca-4e61-b321-dfc019fbf9c3)
+
+
